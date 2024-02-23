@@ -1,7 +1,7 @@
 []()
 <img src="static/images/github-header-image.png" width="100%" alt="Hey! I'm Declan">
 ## About Me
-I'm a junior full-stack developer with a Diploma in Full Stack specialising in e-ccommerce applications from [Code Institute](https://codeinstitute.net/global/full-stack-software-development-diploma/e-commerce/). You can check out the technolgies I work with and my portfolio of projects I have worked on below.
+I'm a junior full-stack developer with a Diploma in Full Stack specialising in e-ccommerce applications from [Code Institute](https://codeinstitute.net/global/full-stack-software-development-diploma/e-commerce/). You can check out the technologies I've worked with and my portfolio of projects I've created below.
 <br />
 
 ### Languages
@@ -48,7 +48,7 @@ A fully functioning e-commerce web application using a Stripe payment process se
 ``Technologies Used`` - HTML5, CSS with Bootstrap, JavaScript, Python, Django, PostgreSQL, Stripe, AWS.
 <br><br>
 #### Bokeh
-<a href="https://github.com/decant09/bokeh"><img align="right" src="static/images/bokeh_landing_page.png" width="250px" alt="Bokeh"></a>
+<a href="https://github.com/decant09/bokeh"><img align="right" src="static/images/bokeh-page.png" width="250px" alt="Bokeh"></a>
 What is bokeh? A place for photography enthusiasts to upload, share and learn. Engage in conversation and find out how those magic moments were captured.
 <br>
 ``Technologies Used`` - HTML5, CSS3 with Bootstrap, JavaScript, Python, Django, PostgreSQL
