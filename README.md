@@ -42,7 +42,7 @@ I'm a junior full-stack developer with a Diploma in Full Stack specialising in e
 I have worked on projects individually, as well as collaboratively in team-based environments through participating in hackathons. Please feel free to view my body of work below. By clicking on the associated image of each project you can view the repository where there are also links to the live site.
 ### Personal
 #### Reiki
-<a href="https://github.com/decant09/reiki"><img align="right" src="static/images/reiki_homepage.png" width="250px" alt="Reiki"></a>
+<a href="https://github.com/decant09/reiki"><img align="right" src="static/images/reiki-homepage.png" width="250px" alt="Reiki"></a>
 A fully functioning e-commerce web application using a Stripe payment process secured with Stripe Webhooks. The site allows users to view & purchase the products & services provided by the business. Users can create accounts, leave reviews, & contact the business using a contact form. The site also enables administrators to add, edit and remove products, as well as view contact enquiries & pre-approve reviews before they appear on the live site.
 <br>
 ``Technologies Used`` - HTML5, CSS with Bootstrap, JavaScript, Python, Django, PostgreSQL, Stripe, AWS.
@@ -77,10 +77,10 @@ Beach Yoga Fuerteventura is a website designed for a fictional yoga club in El C
 
 ### Collaborative
 #### LoveSched - Cupid's Code Quest Hackathon by Code Institute - 3rd Place
-<a href="https://github.com/decant09/lovesched"><img align="right" src="static/images/lovesched_homepage.png" width="250px" alt="Lovesched"></a>
+<a href="https://github.com/decant09/lovesched"><img align="right" src="static/images/lovesched-homepage.png" width="250px" alt="Lovesched"></a>
 Welcome to LoveSched. An events-ideas and date planner for all your romantic needs. Whether they're in a couple, or single-and-ready-to-mingle, users can browse a gallery to view dating event ideas. For additional     features, users can create a profile account. With their own account, they can save their favourite events, schedule events into their own personal calendar, and even create new, custom events! Custom events can even be published to Love Sched for other users to view and save.
 <br>
 ``Technologies Used`` - HTML5, CSS3 with Tailwind, JavaScript, Python, Django, PostgreSQL
 <br>
-<a href="[https://github.com/decant09/lovesched](https://github.com/decant09/decant09/blob/main/static/images/Code%20Institute%20-%20February%202023%20Hackathon%203rd%20Place%20-%202024-02-20.png?raw=true)"><img align="left" src="static/images/Code%20Institute%20-%20February%202023%20Hackathon%203rd%20Place%20-%202024-02-20.png" width="70px" alt="3rd Place Badge"></a>
+<img align="left" src="static/images/code-nstitute-feb-23-hackathon-3rd-place-2024-02-20.png" width="70px" alt="3rd Place Badge" />
 <br><br>
