@@ -40,35 +40,35 @@ I'm a junior full-stack developer with a Diploma in Full Stack specialising in e
 ## Portfolio
 
 ### Reiki
-<a href="https://github.com/decant09/reiki"><img align="right" src="static/img/" width="250px" alt="Reiki"><a/>
+<a href="https://github.com/decant09/reiki"><img align="right" src="static/images/reiki_homepage.png" width="250px" alt="Reiki"></a>
 A fully functioning e-commerce web application using a Stripe payment process secured with Stripe Webhooks. The site allows users to view & purchase the products & services provided by the business. Users can create accounts, leave reviews, & contact the business using a contact form. The site also enables administrators to add, edit and remove products, as well as view contact enquiries & pre-approve reviews before they appear on the live site.
 <br>
 **Technologies Used** - HTML5, CSS with Bootstrap, JavaScript, Python, Django, PostgreSQL, Stripe, AWS.
 <br><br><br><br><br><br>
 
 ### Bokeh
-<a href="https://github.com/decant09/bokeh"><img align="right" src="static/img/" width="250px" alt="Bokeh"><a/>
+<a href="https://github.com/decant09/bokeh"><img align="right" src="static/images/bokeh_landing_page.png" width="250px" alt="Bokeh"></a>
 What is bokeh? A place for photography enthusiasts to upload, share and learn. Engage in conversation and find out how those magic moments were captured.
 <br>
 **Technologies Used** - HTML5, CSS3 with Bootstrap, JavaScript, Python, Django, PostgreSQL
 <br><br><br><br><br><br>
 
 ### Machu Picchu Game
-<a href="https://github.com/decant09/machu-picchu-game"><img align="right" src="static/img/" width="250px" alt="Machu Picchu Game"><a/>
+<a href="https://github.com/decant09/machu-picchu-game"><img align="right" src="static/images/mpg-intro.png" width="250px" alt="Machu Picchu Game"></a>
 An adventure based game played inside a Python terminal and hosted on Heroku. The player uses text input to progress through the various game scenarios.
 <br>
 **Technologies Used** - Python, Heroku
 <br><br><br><br><br><br>
 
 ### Learn the Lingo Quiz
-<a href="https://github.com/Ldecant09/learn-the-lingo"><img align="right" src="static/img/" width="250px" alt="Learn the Lingo Quiz"><a/>
+<a href="https://github.com/Ldecant09/learn-the-lingo"><img align="right" src="static/images/ltlq-homepage.png" width="250px" alt="Learn the Lingo Quiz"></a>
 Learn the Lingo Quiz is a quiz based learning modality for users to test their knowledge of the local tongue. It is a quiz based game whereby you are presented with a phrase, or term, with four possible answers to choose from. It is aimed at people who are interested in the fun of linguistics and want to learn the local lingo.
 <br>
 **Technologies Used** - Javascript, HTML5, CSS3
 <br><br><br><br><br><br>
 
 ### Beach Yoga Fuerteventura
-<a href="https://github.com/Ldecant09/beach-yoga-fuerteventura"><img align="right" src="static/img/" width="250px" alt="Beach Yoga Fuerteventura"><a/>
+<a href="https://github.com/Ldecant09/beach-yoga-fuerteventura"><img align="right" src="static/images/byf-homepage.png" width="250px" alt="Beach Yoga Fuerteventura"></a>
 Beach Yoga Fuerteventura is a website designed for a fictional yoga club in El Cotillo, Fuerteventura. The website is designed for the client and also for the user. Its purpose is to provide information about yoga and the club. It is aimed at people who are interested in yoga and who are living in or visiting the area. It also provides an area to request more information if desired.
 <br>
 **Technologies Used** - HTML5, CSS3
