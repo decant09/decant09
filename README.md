@@ -1,7 +1,7 @@
 []()
 <img src="static/images/github-header-image.png" width="100%" alt="Hey! I'm Declan">
 ## About Me
-I'm a junior full-stack developer with a Diploma in Full Stack specialising in e-ccommerce applications from [Code Institute](https://codeinstitute.net/global/full-stack-software-development-diploma/e-commerce/). You can check out the technologies I've worked with and my portfolio of projects I've created below.
+I'm a junior full-stack developer with a Diploma in Full Stack specialising in e-commerce applications from [Code Institute](https://codeinstitute.net/global/full-stack-software-development-diploma/e-commerce/). You can check out the technologies I've worked with and my portfolio of projects I've created below.
 <br />
 
 ### Languages
