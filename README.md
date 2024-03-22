@@ -69,7 +69,7 @@ Learn the Lingo Quiz is a quiz based learning modality for users to test their k
 <br><br>
 
 #### Beach Yoga Fuerteventura
-<a href="https://github.com/Ldecant09/beach-yoga-fuerteventura"><img align="right" src="static/images/byf-homepage.png" width="250px" alt="Beach Yoga Fuerteventura"></a>
+<a href="https://github.com/decant09/beach-yoga-fuerteventura"><img align="right" src="static/images/byf-homepage.png" width="250px" alt="Beach Yoga Fuerteventura"></a>
 Beach Yoga Fuerteventura is a website designed for a fictional yoga club in El Cotillo, Fuerteventura. The website is designed for the client and also for the user. Its purpose is to provide information about yoga and the club. It is aimed at people who are interested in yoga and who are living in or visiting the area. It also provides an area to request more information if desired.
 <br>
 ``Technologies Used`` - HTML5, CSS3
