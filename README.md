@@ -62,10 +62,10 @@ An adventure based game played inside a Python terminal and hosted on Heroku. Th
 <br><br><br><br>
 
 #### Learn the Lingo Quiz
-<a href="https://github.com/Ldecant09/learn-the-lingo"><img align="right" src="static/images/ltlq-homepage.png" width="250px" alt="Learn the Lingo Quiz"></a>
+<a href="https://github.com/decant09/learn-the-lingo-quiz"><img align="right" src="static/images/ltlq-homepage.png" width="250px" alt="Learn the Lingo Quiz"></a>
 Learn the Lingo Quiz is a quiz based learning modality for users to test their knowledge of the local tongue. It is a quiz based game whereby you are presented with a phrase, or term, with four possible answers to choose from. It is aimed at people who are interested in the fun of linguistics and want to learn the local lingo.
 <br>
-``Technologies Used`` - Javascript, HTML5, CSS3
+``Technologies Used`` - JavaScript, HTML5, CSS3
 <br><br>
 
 #### Beach Yoga Fuerteventura
