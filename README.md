@@ -46,12 +46,16 @@ I have worked on projects individually, as well as collaboratively in team-based
 A fully functioning e-commerce web application using a Stripe payment process secured with Stripe Webhooks. The site allows users to view & purchase the products & services provided by the business. Users can create accounts, leave reviews, & contact the business using a contact form. The site also enables administrators to add, edit and remove products, as well as view contact enquiries & pre-approve reviews before they appear on the live site.
 <br>
 ``Technologies Used`` - HTML5, CSS with Bootstrap, JavaScript, Python, Django, PostgreSQL, Stripe, AWS.
+<br>
+[``Link to website``](https://decant09-bailey-barbour-reiki-c1328d81ff2e.herokuapp.com/)
 <br><br>
 #### **[Bokeh](https://github.com/decant09/bokeh)**
 <a href="https://github.com/decant09/bokeh"><img align="right" src="static/images/bokeh-page.png" width="250px" alt="Bokeh"></a>
 What is bokeh? A place for photography enthusiasts to upload, share and learn. Engage in conversation and find out how those magic moments were captured.
 <br>
 ``Technologies Used`` - HTML5, CSS3 with Bootstrap, JavaScript, Python, Django, PostgreSQL
+<br>
+[``Link to website``](https://decant09-bokeh-photo-blog-0c5a394f8c26.herokuapp.com/)
 <br><br><br>
 
 #### **[Machu Picchu Game](https://github.com/decant09/machu-picchu-game)**
@@ -59,6 +63,8 @@ What is bokeh? A place for photography enthusiasts to upload, share and learn. E
 An adventure based game played inside a Python terminal and hosted on Heroku. The player uses text input to progress through the various game scenarios.
 <br>
 ``Technologies Used`` - Python, Heroku
+<br>
+[``Link to website``](https://decant09-machu-picchu-game.herokuapp.com/)
 <br><br><br><br>
 
 #### **[Learn the Lingo Quiz](https://github.com/decant09/learn-the-lingo-quiz)**
@@ -66,6 +72,8 @@ An adventure based game played inside a Python terminal and hosted on Heroku. Th
 Learn the Lingo Quiz is a quiz based learning modality for users to test their knowledge of the local tongue. It is a quiz based game whereby you are presented with a phrase, or term, with four possible answers to choose from. It is aimed at people who are interested in the fun of linguistics and want to learn the local lingo.
 <br>
 ``Technologies Used`` - JavaScript, HTML5, CSS3
+<br>
+[``Link to website``](https://decant09.github.io/learn-the-lingo-quiz/)
 <br><br>
 
 #### **[Beach Yoga Fuerteventura](https://github.com/decant09/beach-yoga-fuerteventura)**
@@ -73,6 +81,8 @@ Learn the Lingo Quiz is a quiz based learning modality for users to test their k
 Beach Yoga Fuerteventura is a website designed for a fictional yoga club in El Cotillo, Fuerteventura. The website is designed for the client and also for the user. Its purpose is to provide information about yoga and the club. It is aimed at people who are interested in yoga and who are living in or visiting the area. It also provides an area to request more information if desired.
 <br>
 ``Technologies Used`` - HTML5, CSS3
+<br>
+[``Link to website``](https://decant09.github.io/beach-yoga-fuerteventura/)
 <br><br>
 
 ### Collaborative
@@ -81,6 +91,8 @@ Beach Yoga Fuerteventura is a website designed for a fictional yoga club in El C
 Welcome to LoveSched. An events-ideas and date planner for all your romantic needs. Whether they're in a couple, or single-and-ready-to-mingle, users can browse a gallery to view dating event ideas. For additional     features, users can create a profile account. With their own account, they can save their favourite events, schedule events into their own personal calendar, and even create new, custom events! Custom events can even be published to Love Sched for other users to view and save.
 <br>
 ``Technologies Used`` - HTML5, CSS3 with Tailwind, JavaScript, Python, Django, PostgreSQL
+<br>
+[``Link to website``](https://decant09-lovesched-e100ea8a8dfc.herokuapp.com/)
 <br>
 <img align="left" src="static/images/code-nstitute-feb-23-hackathon-3rd-place-2024-02-20.png" width="70px" alt="3rd Place Badge" />
 <br><br>
